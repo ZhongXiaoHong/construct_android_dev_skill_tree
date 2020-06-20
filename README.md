@@ -7,9 +7,12 @@
 - [LeetCode解题笔记](https://github.com/ZhongXiaoHong/leetcode)
 
 ### Java进阶
+
 - [深入理解JVM原理](https://github.com/ZhongXiaoHong/JVM)
 
 - [ClassLoader知识总结](https://github.com/ZhongXiaoHong/ClassLoader)
+
+-并发编程](https://github.com/ZhongXiaoHong/JavaConcurrentCoding)
 
 ### Kotlin
 - [Kotlin实战](https://github.com/ZhongXiaoHong/Kotlin)
